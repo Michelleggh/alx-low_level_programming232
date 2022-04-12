@@ -5,7 +5,7 @@
  * @void: Empty parameter list for main.
  *
  * Description: Prints _putchar w/out stdio
- * 
+ *
  * Return: 0 for success
 */
 int main(void)
@@ -18,6 +18,5 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	_putchar('\n');
 	return (0);
 }
