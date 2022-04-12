@@ -1,7 +1,7 @@
-#ifndef MAIN_H_INCLUDED
-#define MAIN_H_INCLUDED
+#ifndef _ MAIN_H_INCLUDED
+#define _ MAIN_H_INCLUDED
 
-int_purtchar(char c);
+int _purtchar(char c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _islower(int c);
@@ -15,4 +15,4 @@ int add(int a, int b);
 void print_to_98(int n);
 void print_times_table(int n);
 
-#endif
+#endif /* _MAIN_H_ */
